@@ -1,1 +1,1 @@
-https://github-stats-alpha.vercel.app/api/?username=cachecleanerjeet&cc=000&tc=fff&ic=fff&bc=000
+https://lnardon.github.io/GithubStats/
